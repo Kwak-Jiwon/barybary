@@ -10,7 +10,7 @@
   
 ## 🧑‍🤝‍🧑 개발자 소개 
 - [정재현](https://github.com/RGLie)
-- [곽지원](https://github.com/Kwak-Jiwon))
+- [곽지원](https://github.com/Kwak-Jiwon)
   
 
 
