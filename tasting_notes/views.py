@@ -3,6 +3,7 @@ from django.views.decorators.csrf import csrf_exempt
 from django.views.decorators.http import require_http_methods
 from django.core.exceptions import ObjectDoesNotExist
 from .models import YourModel, User, Coffee
+from bson import ObjectId
 import json
 
 
@@ -32,7 +33,7 @@ def add_example(request):
             'status': 'success',
             'message': 'Entry added successfully',
             'data': {
-                '_id': str(new_entry._id),
+                '_id': str(ObjectId(new_entry._id)),
                 'written_id': new_entry.written_id,
                 'coffee_id': new_entry.coffee_id,
                 'note_floral': new_entry.note_floral,
@@ -149,7 +150,7 @@ def add_review(request):
         review = data['review']
 
         # Retrieve the specific Coffee instance
-        coffee = Coffee.objects.get(_id=coffee_id)
+        coffee = Coffee.objects.get(pk=ObjectId(coffee_id))
 
         # Add the new review to the review_lst
         coffee.review_lst.append(review)
@@ -157,7 +158,7 @@ def add_review(request):
 
         # Prepare the response data
         response_data = {
-            'id': coffee._id,
+            'id': str(coffee._id),
             'type': coffee.type,
             'name': coffee.name,
             'name_eng': coffee.name_eng,

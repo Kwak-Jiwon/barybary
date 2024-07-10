@@ -8,7 +8,7 @@ from djongo import models
 #         abstract = False
 
 class YourModel(models.Model):
-    _id = models.ObjectIdField()
+    _id = models.ObjectIdField(primary_key=True)
     written_id = models.CharField(max_length = 255)
     coffee_id = models.CharField(max_length=255)
     note_floral = models.BooleanField(default=False)
