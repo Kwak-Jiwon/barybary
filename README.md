@@ -56,5 +56,6 @@
     - 작성한 커핑 노트와 평점을 한눈에 볼 수 있어요.
     - 후기별로 정렬하고 필터링할 수 있어요.
 <img width="30%" src="https://github.com/Kwak-Jiwon/madcampweek2/assets/67307958/a4fbc44a-00c7-4ea3-a183-c6f6c40feb68"/>
-<img width="30%" src="https://github.com/Kwak-Jiwon/madcampweek2/assets/67307958/e5ac2280-b1ce-4ea1-817c-6f8b142b8c1"/>
+<img width="30%" src="https://github.com/Kwak-Jiwon/madcampweek2/assets/67307958/e5ac2280-b1ce-4ea1-817c-6f8b142b8c1c"/>
+<img width="30%" src="https://github.com/Kwak-Jiwon/madcampweek2/assets/67307958/b58aed45-ea4a-4a15-b260-50e8558c174c"/>
 
