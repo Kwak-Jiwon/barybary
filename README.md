@@ -27,7 +27,7 @@
   - 다양한 맛 노트 (플로럴, 과일, 베리, 건과류, 시리얼, 초콜릿 등)를 선택할 수 있어요.
   - 단맛, 산미, 쓴맛, 바디감 등을 평가하는 슬라이더가 있어요.
   - 총점수를 매기고 기록할 수 있어요.
-<img width="30%" src="https://private-user-images.githubusercontent.com/67307958/347671675-eafd722e-84f1-4c7c-8b54-a4d3377a66b0.jpg](https://github-production-user-asset-6210df.s3.amazonaws.com/67307958/347671675-eafd722e-84f1-4c7c-8b54-a4d3377a66b0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240912%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240912T002946Z&X-Amz-Expires=300&X-Amz-Signature=e3f681877054541b23457541ed8ec173f74459717b6ae74846e1f976f4d6ce2e&X-Amz-SignedHeaders=host&actor_id=67307958&key_id=0&repo_id=825792423)"/>
+<img width="30%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/67307958/347671675-eafd722e-84f1-4c7c-8b54-a4d3377a66b0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240912%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240912T002946Z&X-Amz-Expires=300&X-Amz-Signature=e3f681877054541b23457541ed8ec173f74459717b6ae74846e1f976f4d6ce2e&X-Amz-SignedHeaders=host&actor_id=67307958&key_id=0&repo_id=825792423)"/>
 <br/>
   
 - 평점 페이지
