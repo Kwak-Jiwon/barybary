@@ -29,6 +29,7 @@
   - 총점수를 매기고 기록할 수 있어요.
 <img width="30%" src="https://github.com/Kwak-Jiwon/madcampweek2/assets/67307958/f2f132a3-fd28-498b-98dc-9af2bf3dfa12"/>
 <img width="30%" src="https://github.com/Kwak-Jiwon/madcampweek2/assets/67307958/eafd722e-84f1-4c7c-8b54-a4d3377a66b0"/>
+<br/>
 <img width="30%" src="https://github.com/Kwak-Jiwon/madcampweek2/assets/67307958/b98dca85-aa7a-4772-8c2a-fda1f4ed8282"/>
 <img width="30%" src="https://github.com/Kwak-Jiwon/madcampweek2/assets/67307958/a1166122-f92d-4f80-8935-ae8616343c52"/>
 <img width="30%" src="https://github.com/Kwak-Jiwon/madcampweek2/assets/67307958/5b9c980d-bae0-4b2c-97a9-b115d77c6184"/>
