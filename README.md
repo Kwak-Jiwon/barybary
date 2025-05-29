@@ -1,26 +1,26 @@
 # 바리바리
 
 
-## 👨‍🏫 Project Introduction
-"barybary" is an app designed to help coffee enthusiasts delve deeper into the world of coffee and enhance their sensory experience. This all-in-one platform allows users to enjoy, record, and master the art of brewing the perfect cup of drip coffee. Our goal is to maximize the sensory journey of coffee lovers and provide a richer, more emotional coffee experience. ☕✨
+##  Project Introduction
+"barybary" is an app designed to help coffee enthusiasts delve deeper into the world of coffee and enhance their sensory experience. This all-in-one platform allows users to enjoy, record, and master the art of brewing the perfect cup of drip coffee. Our goal is to maximize the sensory journey of coffee lovers and provide a richer, more emotional coffee experience. 
 
 
 
   
-## 🧑‍🤝‍🧑 Developer Introduction
+##  Developer Introduction
 - [Jaehyun Jeong](https://github.com/RGLie)
 - [Jiwon Kwak](https://github.com/Kwak-Jiwon)
   
 
 
-## ⚙️ Tech Stack
+## ⚙ Tech Stack
 - **Server** : AWS EC2
 - **DataBase** : MongoDB
 - **back-end** : Django
 - **front-end** : flutter
 
 
-## 📌 Key Features
+##  Key Features
 - Cupping Note Page
   - This page allows users to write detailed reviews about the coffee they’ve tasted. Users can record the coffee’s aroma, flavor, and body in an emotional and personalized way, crafting their unique coffee profile.
   - Select Various Flavor Notes: Choose from floral, fruity, berry, nutty, cereal, chocolate, and more.
